@@ -10,9 +10,9 @@ pip install weather-api
 ```
 
 # Theory
-10+	0 min
-10	30 min
-0	60 min
--15	90 min
+* +10°C = 0 min
+* 10°C = 30 min
+* 0°C = 60 min
+* -15°C = 90 min
 
 Never run above 10 and never for longer then 90 mins.
