@@ -5,4 +5,9 @@ weather = Weather(unit=Unit.CELSIUS)
 lookup = weather.lookup(903830)
 condition = lookup.condition
 
-print(condition.text)
+temp = condition.temp
+print(temp)
+
+if temp > 10:
+  print("Block heater should be off.")
+
