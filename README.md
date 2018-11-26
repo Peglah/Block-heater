@@ -1,3 +1,5 @@
+# WARNING - PRE ALPHA. CODE MIGHT NOT EVEN BE WRITTEN!
+
 # Block-heater
 Temp and timer function for the block heater using a RPi and relays.
 
