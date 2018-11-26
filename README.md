@@ -8,3 +8,11 @@ weather-api
 ```
 pip install weather-api
 ```
+
+# Theory
+10+	0 min
+10	30 min
+0	60 min
+-15	90 min
+
+Never run above 10 and never for longer then 90 mins.
